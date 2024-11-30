@@ -35,6 +35,41 @@ def get_weather(lat, lon):
         response = requests.get(url)
         response.raise_for_status()
         return response.json()
+hfwefhuwifuwiwiuehwiehwiufehiuwfehiuwehiuwhfeiuwfehiuweh
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
+cowhfecwefcwef
     except requests.RequestException as e:
         print(f"{Fore.RED}Xatolik yuz berdi: {e}{Style.RESET_ALL}")
         return None
